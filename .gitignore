@@ -1,3 +1,5 @@
-/report
-/.ipynb_checkpoints
+report/*
+!report/Feature Engineering with Featuretools.pdf
+
+.ipynb_checkpoints/
 poetry.lock
